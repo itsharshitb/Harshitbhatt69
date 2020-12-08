@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/harshit-bhatt-119b30186" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshit-bhatt-119b30186" height="30" width="40" /></a>
 <a href="https://instagram.com/han_mai_he_hu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="han_mai_he_hu" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harshitbhatt69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshitbhatt69" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@c_harshit_34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@c_harshit_34" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/c_harshit_34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@c_harshit_34" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/harshitbhatt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="harshitbhatt" height="30" width="40" /></a>
 </p>
 
