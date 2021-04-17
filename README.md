@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **everything including Android Development**
 
-- 👯 I’m looking to collaborate on **any relevant**
-
-- 👨‍💻 All of my projects are available [here](here)
+- 👯 I’m looking to collaborate on **anything relevant**
 
 - 💬 Ask me about **Frontend/C/C++/Java**
 
