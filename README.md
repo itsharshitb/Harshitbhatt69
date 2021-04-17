@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitbhatt69&label=Profile%20views&color=0e75b6&style=flat" alt="harshitbhatt69" /> </p>
+
 - 🔭 I’m currently working on [Android Development](https://github.com/Harshitbhatt69/androidDev)
 
 - 🌱 I’m currently learning **everything including Android Development**
@@ -30,3 +32,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/harshitbhatt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshitbhatt" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitbhatt69&show_icons=true&locale=en&layout=compact" alt="harshitbhatt69" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitbhatt69&show_icons=true&locale=en" alt="harshitbhatt69" /></p>
