@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **harshitbhatt972@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zGv6USYKbia1nSr2WBUm2nsaisLTuHnP/view?usp=drivesdk](https://drive.google.com/file/d/1zGv6USYKbia1nSr2WBUm2nsaisLTuHnP/view?usp=drivesdk)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1zGv6USYKbia1nSr2WBUm2nsaisLTuHnP/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
